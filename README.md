@@ -1,10 +1,10 @@
 # Desafio Pytest - Squad Sarah Gilbert
 
-## 📚 Sobre o Projeto
+## 📚 Sobre o Projeto:
 
-Este projeto é parte do **Bootcamp Womakerscode** e tem como objetivo aplicar testes automatizados utilizando a biblioteca **pytest** para garantir a qualidade do código e a confiabilidade das funcionalidades.
+Este projeto faz parte do **Bootcamp Womakerscode** e tem como objetivo aplicar testes automatizados utilizando a biblioteca **pytest** para garantir a qualidade do código e a confiabilidade das funcionalidades.
 
-## 🛠️ O que foi feito
+## 🛠️ O que foi feito:
 
 - **✨ Implementação de Testes**: Criação de testes automatizados com pytest.
 - **📂 Estrutura de Testes**: Organização e uso de fixtures para facilitar a execução dos testes.
@@ -12,14 +12,14 @@ Este projeto é parte do **Bootcamp Womakerscode** e tem como objetivo aplicar t
 
 ## 🧪 O que é o Pytest?
 
-**pytest** é uma biblioteca poderosa para testes em Python, que oferece:
+**Pytest** é uma biblioteca poderosa para testes em Python que oferece:
 
 - **✅ Simplicidade e Legibilidade**: Testes claros e concisos.
 - **🔍 Descoberta Automática**: Encontra testes automaticamente.
 - **📦 Fixtures**: Organização eficiente de dados de teste.
 - **📊 Relatórios Detalhados**: Resultados claros e compreensíveis.
 
-### Exemplos de Uso
+### Exemplos de Uso:
 
 ```python
 def test_soma():
@@ -32,7 +32,7 @@ def dados_de_teste():
     return {'usuario': 'teste', 'senha': '1234'}
 ```
 
-## 📦 Como Executar o Projeto
+## 📦 Como Executar:
 
 1. Clone o repositório:
    ```bash
